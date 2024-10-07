@@ -1,0 +1,44 @@
+.sec5_x{
+    text-align: center;
+    margin-top: 20px;
+}
+.sec5_x p{
+    font-size: 15px;
+}
+
+.sec5_x h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+  
+
+}
+
+
+.sec5_xx{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.sec5_xx img{
+    width: 200px;
+    height: 300px;
+    
+}
+.sec5_xx span{
+    margin-left: 50px;
+    
+    
+}
+.l_img  {
+    height: 300px;
+    background-color: #ffffff;
+    background-image: linear-gradient(90deg, #e8f1ed 60%, #ffffff 90%);
+    opacity: 0.7;
+}
+.ll_img  {
+    height: 300px;
+    background-color: #ffffff;
+    background-image: linear-gradient(to left, #e8f1ed 60%, #ffffff 90%);
+    opacity: 0.7;
+}

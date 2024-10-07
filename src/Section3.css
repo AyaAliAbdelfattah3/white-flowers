@@ -1,0 +1,54 @@
+.sec3{
+    height:600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+   
+
+}
+.sec3 .img1{
+    height: 600px;
+    width: 700px;
+    position:relative;
+   
+
+}
+
+ .img2{
+     position: absolute;
+     width: 200px;
+     height: 250px;
+     border-radius: 100px 100px 0  0;
+     right: 520px;
+     
+    
+   
+}
+.sec3-text p{
+width: 300px;
+}
+.sec3-text h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:200;
+    font-size: 40px;
+    width: 300px;
+}
+.sec3-text{
+    margin-left: 150px;
+}
+.sec3-text button{
+    background-color:pink;
+    padding: 15px;
+    border:none;
+    border-radius: 40px;
+    
+  
+    
+   
+}
+h5{
+    font-size: 15px;
+    color: gray;
+}

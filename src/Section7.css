@@ -1,0 +1,56 @@
+.all_divs{
+    display: flex;
+    margin-top: 30px;
+}
+.fst_div{
+    background-color: rgb(253, 240, 204);
+    width: 700px;
+    height: 500px;
+    margin-left: 20px;
+    position: relative;
+
+}
+
+
+.snd_div{
+    position: absolute;
+    top: 10px;
+    left: 260px;
+}
+.thrd_div{
+    position:absolute ;
+    top: 10px;
+  
+   
+   
+}
+.thrd_div h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin-left: 140px;
+    width: 350px;
+    text-align: center;
+
+}
+.thrd_div p{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    margin-left: 140px;
+    text-align: center;
+    margin-top: 150px;
+}
+.thrd_div button{
+    margin-left: 200px;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+    text-align: center;
+}
+.fth_div img{
+    width: 600px;
+    height: 500px;
+}

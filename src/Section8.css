@@ -1,0 +1,76 @@
+.sec8_xx{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+.sec8_xx img{
+    width: 250px;
+    height:350px ;
+    margin: 20px;
+  
+}
+.sec8_xx p{
+    text-align: center;
+    margin-top: 0;
+
+}
+ h5{
+    text-align: center;
+    margin-top: 0;
+
+
+}.share{
+    position: relative;
+    line-height: 40px;
+  
+}
+.share img{
+   
+    margin-left: 30px;
+    height: 330px;
+    width: 95%;
+   
+    
+}
+.share .abs{
+    position: absolute;
+    left: 50%;
+    top: 30px;
+}
+.abs h4{
+    background-color: rgb(255, 189, 200);
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 130px;
+    
+}
+.abs h3{
+    color: rgb(255, 189, 200);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+
+}
+.abs h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    
+}
+.abs p{
+   font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
+
+.abs button{
+    background-color: rgb(224, 219, 219);
+    color: black;
+    border-radius: 40px;
+    border: none;
+    padding: 18px;
+    height: 50px;
+    width: 200px;
+}
